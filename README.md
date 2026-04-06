@@ -45,3 +45,7 @@ $$\Delta SNR = SNR_{after} - SNR_{before}$$
 $$\Delta SNR = 1.04 \ dB - (-3.10 \ dB)$$
 
 $$\Delta SNR = \mathbf{4.14 \ dB}$$
+
+
+<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/0022f573-db47-4a69-a697-a09052720ad3" />
+
